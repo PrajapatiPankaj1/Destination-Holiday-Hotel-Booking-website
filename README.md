@@ -2,8 +2,10 @@
 
 A highly polished, production-grade hotel booking and management platform built using the MERN stack (MongoDB, Express.js, React, Node.js) with TypeScript. Rebranded completely to **Destination Holiday**, this platform features an automated geocoded on-demand database ingestion pipeline, zero-lag write-replication database bypass, a failsafe in-memory seeder, strict client-side form validation, and a beautiful premium Deep Teal sea-green color aesthetic.
 
-- **Frontend Repository:** [https://github.com/PrajapatiPankaj1/Destination-Holiday-Hotel-Booking-website](https://github.com/PrajapatiPankaj1/Destination-Holiday-Hotel-Booking-website)
-- **Author/Developer:** **Pankaj Prajapati**
+- **Live Demo:**
+Frontend url-https://destination-holiday-hotel-booking-w.vercel.app/
+Backend url-https://destination-holiday-hotel-booking-website.onrender.com
+- 
 
 ---
 
